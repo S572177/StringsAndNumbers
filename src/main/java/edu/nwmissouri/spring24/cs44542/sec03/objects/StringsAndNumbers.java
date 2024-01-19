@@ -5,9 +5,16 @@
 package edu.nwmissouri.spring24.cs44542.sec03.objects;
 
 /**
- *
- * @author S572177
- */
+* Class: 44542-S572177 Object-Oriented Programming
+*
+* @author Swetha Kamineni
+* Description: Making sure everything works
+* Due: 01/18/2024
+* I pledge that I have completed the programming assignment independently.
+* I have not copied the code from a student, internet, or any other source.
+* I will not share my source code with anyone under any circumstances.
+*/
+
 import java.util.Random;
 import java.util.*;
 
